@@ -3,6 +3,7 @@ import SignIn from "../../components/sign-in/sign-in";
 import "./sign-in-sign-up.scss";
 import SignUp from "../../components/sign-up/sign-up";
 
+
 const SignInAndSignUp = () => (
 	<div className='sign-in-and-sign-up'>
         <SignIn />
